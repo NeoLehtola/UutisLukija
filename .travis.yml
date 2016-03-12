@@ -1,5 +1,4 @@
-before_install:
-    - mvn install com.mycompany:HackerNewsUutiset:jar:1.0-SNAPSHOT
+
 
 language: java
 
